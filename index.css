@@ -1,0 +1,13 @@
+.navbar {
+    justify-content: center;
+    color: whitesmoke;
+}
+
+.card {
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    width: 100%;
+}
